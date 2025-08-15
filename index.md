@@ -45,8 +45,9 @@ Hi! My name is Sloane Sommers :p
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #3d7eafff">
     <span style="color: #000000">Turtle</span>
 </a>
-</a href="https://www.youtube.com/watch?v=Ikn6Z2fxMs4" class="button small" style="background-color: #d5a817ff">
+<a href="https://www.youtube.com/watch?v=Ikn6Z2fxMs4" class="button small" style="background-color: #d5a817ff">
     <span style="color: #000000">Starting Over</span>
+</a>
 <br>
 
 <!-- Contact Section -->
