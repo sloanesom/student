@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is [Your Full Name].
+Hi! My name is Sloane Sommers :p
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -42,10 +42,11 @@ Hi! My name is [Your Full Name].
 <a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
     Snake Game
 </a>
-<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
+<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #3d7eafff">
     <span style="color: #000000">Turtle</span>
 </a>
-
+</a href="https://www.youtube.com/watch?v=Ikn6Z2fxMs4" class="button small" style="background-color: #d5a817ff">
+    <span style="color: #000000">Starting Over</span>
 <br>
 
 <!-- Contact Section -->
