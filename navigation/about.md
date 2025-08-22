@@ -123,8 +123,8 @@ Everything for me, as for many others, revolves around family and faith.
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="<a rel="nofollow" class="external free" href="https://pusheen.com/">https://pusheen.com/</a>, <a href="//en.wikipedia.org/wiki/File:Pusheen_the_Cat.png" title="Fair use of copyrighted material in the context of Pusheen">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=62394036">Link</a>" alt="Image 1">
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
   <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
@@ -134,5 +134,5 @@ Gallery of Pics, scroll to the right for more ...
   <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
   <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
   <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="" alt="Image 12">
 </div>
