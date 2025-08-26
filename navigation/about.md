@@ -123,7 +123,6 @@ Everything for me, as for many others, revolves around family and faith.
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="<a rel="nofollow" class="external free" href="https://pusheen.com/">https://pusheen.com/</a>, <a href="//en.wikipedia.org/wiki/File:Pusheen_the_Cat.png" <a href="https://en.wikipedia.org/w/index.php?curid=62394036">Link</a>" alt="Image 1">
   <img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png" alt="Image 2">
   <img src="" alt="Image 3">
   <img src="" alt="Image 4">
