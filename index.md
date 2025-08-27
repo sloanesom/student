@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm Sloane Sommers
 hide: true
 ---
 
