@@ -5,12 +5,13 @@ description: The Web Programming topics are focused on learning Frontend program
 categories: ['JavaScript']
 permalink: /github/pages/intro
 type: ccc
-courses: {'csse': {'week': 2}, 'csp': {'week': 1}, 'csa': {'week': 0}}
+courses: {'csse': {'week': 2}, 'csp': {'week': 2}, 'csa': {'week': 1}}
 author: John Mortensen
 menu: nav/github_pages.html
 ---
 
 ## GitHub Pages Mini Project
+
 Your Teacher wants you to engage in a mini project!  This project is intended to help you and your programming pair to make an information site.  The required topics for this mini project include ...
 
 - Making a submenu
@@ -23,12 +24,14 @@ Your Teacher wants you to engage in a mini project!  This project is intended to
 Start the process of inspecting and debugging
 
 ## Topics
+
 The topic for your mini project is up to you.
 - Perhaps you wnat to make a submenu of your favorite games and inside each article you can capture data and talk about techniques to enhance place (list discord groups, list communities you have joined, share a list of key videos to enhance success, make a list of popular mods you have added, discuss properties of avatars, etc )  
 - In fitness training you could make menus that highlight highlight topics and results by define a training regimine, track results/data on regimine, define key offline preparations (sleep, nutrition, water, calories, steps), etc
 
 
 ### Brainstorm
+
 To brainstorm is often done by sharing or talking about topics with a pair.  In your project you will capture your brainstorm of your project.
 
 - Gaming Blog
@@ -37,9 +40,11 @@ To brainstorm is often done by sharing or talking about topics with a pair.  In 
 - Career Humor
 
 ## Brainwrite 
+
 The Teacher descited to create a mini project on Career Humor.  As a Brainwrite activity, the Teacher decided to think about careers that are possible pursuts of subjects taught at Del Norte High School.
 
 ### Brainwrite Submenu
+
 My brainwrite took the brainstorm idea of **Career Humor** and established some categories.   
 
 1. Computer Science
@@ -52,6 +57,7 @@ My brainwrite took the brainstorm idea of **Career Humor** and established some 
 
 
 ### Brainwrite Data
+
 Beyond initial categories, my brainwrite went into the direction of authoring joke data.  Amazingly, after some initial research on Computer Science, the Teacher found that ChatGPT could help with jokes on Accountings.
 
 **Note** To observe outputs from Javascript **console.log**, open the Developer Tools
@@ -120,6 +126,7 @@ console.log("Joke #" + (randomIndex + 1) + ": " + accounting_joke_list[randomInd
 
 
 ## Mini Project Files
+
 Learning how to manage files in GitHub Pages is a key skill.  This class will continually share files and have challenges using GitHup Pages and Jupyter Notebooks.  Even though you will be working as a pair, you will need to share files with your partner.
 - Each pair will have their own GitHub Pages repository with their own files.
 - To copy files between repostories, 
@@ -129,6 +136,7 @@ Learning how to manage files in GitHub Pages is a key skill.  This class will co
   - **drag and drop** files between repositories, be sure to put them in correct folders
 
 ### Key Locations for this mini Project
+
 - The **_includes** directory is a location to place files that you want to share across many notebooks.  
   - In this directory on porfolio_2025 you submenu files.
   - The location **_includes/nav/github_pages.html** is a shared submenu
