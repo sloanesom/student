@@ -4,7 +4,7 @@ title: I'm Sloane Sommers
 hide: true
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Sloane Sommers
 
 ### Development Environment
 
