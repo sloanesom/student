@@ -60,8 +60,8 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - 6-7 years"},
-        {"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maryland_Bicentennial_13c_1976_issue.jpg/500px-Maryland_Bicentennial_13c_1976_issue.jpg", "greeting": "Hi", "description": "Maryland - 9 years"},
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "Beach vibes <3", "description": "California - always!"},
+        
 
        
     ];
