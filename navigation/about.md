@@ -5,9 +5,9 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## Hi! I'm Sloane :p
 
-Here are some places I have lived.
+These are the flags of places I've lived.
 
 <comment>
 Flags are made using Wikipedia images
@@ -97,27 +97,24 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life
+### Things I like
 
-Here is what I did at those places
+I love to listen to and make music, work with art, hang out with friends and eat Taco Bell!
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- A few of my favorite music artists are TV Girl, Lana Del Rey, and Sematary.
+- I play percussion in the school's concert band and march snare drum in the marching band!
+- Me and my friends like to play roblox, take walks, bake food, and watch tv.
+- Taco Bell is my favorite fast food restaurant. 
+- My top five Taco Bell Items in order are : Crunchwrap Supreme, Baja Blast Zero, Nacho Fries, Grilled Cheese Burrito and Apple Empanada.
+
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+I am mostly white but I am 25% Japanese. My dad was born in Japan, but my mother was born in America and so was I.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- On my Mom's side, I originate from the British Isles. On my Dad's, I am Japanese and Hungarian.
+- I have two sisters, one older and one younger.
+- The gallery of pics shows things and people I love.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
