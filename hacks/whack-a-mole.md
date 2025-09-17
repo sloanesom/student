@@ -20,7 +20,7 @@ Information:
 - 🟢 **Green Mole (Normal):** +10 points. Lose **1 life** if missed.  
 - 🟡 **Golden Mole:** +30 points. Lose **1 life** if missed.  
 - 🔴 **Red Bomb:** -1 life if hit. Safe to ignore.  
-- 🌸 **Pink Power-up (Double):** Double points for 5s.  
+- 🌸 **Pink Power-up (Double):** Double points for 10s.  
 - 🔵 **Cyan Power-up (Life):** +1 life.  
 
 <canvas id="gameCanvas" width="450" height="450"></canvas>
@@ -41,7 +41,7 @@ Information:
       const r = this.size / 2.6;
 
       const grad = ctx.createRadialGradient(cx, cy, r * 0.3, cx, cy, r);
-      grad.addColorStop(0, "#5a3b1a"); // inner dirt
+      grad.addColorStop(0, "#654b6bff"); // inner dirt
       grad.addColorStop(1, "#2e1b0b"); // dark rim
       ctx.fillStyle = grad;
       ctx.beginPath();
@@ -49,7 +49,7 @@ Information:
       ctx.fill();
 
       // subtle rim outline for definition
-      ctx.strokeStyle = "rgba(0,0,0,0.35)";
+      ctx.strokeStyle = "rgba(252, 0, 0, 0.35)";
       ctx.lineWidth = 3;
       ctx.beginPath();
       ctx.arc(cx, cy, r * 1.02, 0, Math.PI * 2);
@@ -98,7 +98,7 @@ Information:
       const r = size / 3;
 
       ctx.beginPath();
-      if (this.type === "normal") ctx.fillStyle = "#8b4513"; // brown mole
+      if (this.type === "normal") ctx.fillStyle = "#138b17ff"; // brown mole
       else if (this.type === "golden") ctx.fillStyle = "gold";
       else if (this.type === "bomb") ctx.fillStyle = "black";
 
@@ -161,7 +161,7 @@ Information:
       ctx.fill();
     }
     onHit(game){
-      if(this.type==="double") game.activateMultiplier(5000);
+      if(this.type==="double") game.activateMultiplier(10000);
       else if(this.type==="life") game.lives++;
       this.hole.entity = null;
     }
