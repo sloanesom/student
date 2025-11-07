@@ -50,7 +50,18 @@ On the MCQ, I used the research strategy on questions where I had a basis of kno
 
 Corrections: 
 
-Q1:
+Q1: I didn't know how to approach this problem, so I skipped it and then researched. I discovered that to swap the values, you have to save the original first value in temp so you don’t lose it. Then you change first to the value in second. Finally, you set second equal to temp, which gives it the original first value.
+
+Q9: I selected an incorrect option regarding the benefits of the iterative and incremental process of program development. Whereas I believed it allowed programmers to solve unsolvable problems, the purpose this proces actually serves is to identify errors as components that are added to a working program.
+
+Q14:  I chose the wrong option on this question regarding the values that two programs display. I put that they displayed a different number of values, but I was confused. Program a shows the value before adding one, displaying 1-10; where program b adds 1 first and then shows the value, displaying 2-11. They both show 10 numbers, the values are just different.
+
+Q15: I selected the wrong answer referring to Internet communication, saying that "devices from different manufactureres are required to run the same operating system to communicate over the internet". This isn't true, and devices such  Android and Apple can communicate just fine with different servers. They simply need to use the same internet protocols (like https), which are universal. So the correct option was that each device connect to the internet is assigned an Internet protocol (IP) address.
+
+Q20: I put that Max (a, b) +Max (b, c) - Max (a, c) would find the greatest of 3 integer values a b and c, but the answer is actually Max (Max (a, b), c). I mostly just guessed on this one because I didn't understand it, but when I did research I found out  Max (a, b) gives you the larger of a and b, then Max of that result gives you the larger overall. The other options don't always return the biggest number.
+
+
+
 
 
 ## Something cool you'd like to share.
