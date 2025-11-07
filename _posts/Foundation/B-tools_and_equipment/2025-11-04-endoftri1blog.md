@@ -60,6 +60,14 @@ Q15: I selected the wrong answer referring to Internet communication, saying tha
 
 Q20: I put that Max (a, b) +Max (b, c) - Max (a, c) would find the greatest of 3 integer values a b and c, but the answer is actually Max (Max (a, b), c). I mostly just guessed on this one because I didn't understand it, but when I did research I found out  Max (a, b) gives you the larger of a and b, then Max of that result gives you the larger overall. The other options don't always return the biggest number.
 
+Q23: On the redundant routing modeling question, I skipped answering because I didn't understand. Research told me that B is the only option to not have redundant routing because each of the computers are connected to the next by one string only, not to multiple at a time.
+
+Q26: For a robot programming question, I was unsure of the moves to take to move robot to gray square. The correct code is if can move right, rotate right else move forward, because in a square loop like that the robot needs to turn right first.
+
+Q30:  I answered that the movie sorting program would take 4 hours to execute, but in reality it takes 5. This is  each call to the analysis needs 1 hour of time, and it's called once before the loop then four times inside (once per entry in genreList). So 1+4 =5.
+
+Q33:
+
 
 
 
