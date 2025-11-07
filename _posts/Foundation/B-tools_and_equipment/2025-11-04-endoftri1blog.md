@@ -26,6 +26,8 @@ Night at the Museum ran relatively smoothly, besides a couple bumps in the setup
 ## What do you want to do next on project, given time?
 Collaboration wise, I want to establish an environment where everyone is on the same level in terms of work, not just in distribution of tasks. I want to be able to fully explain/understand the nuances of each part, and each other member should feel the same about mine. Also, more planning DURING the construction of the code will help us avoid another N@TM disaster.
 
+The most important thing is that I want to feel useful in my team. In the past I have been carried by Lucas, but in the next project I want to be a source of help for those around me and someone that my teammates can rely on to get hard things done. To do this I think I will maxmize my focus inside and outside of class, which involves probably powering off my phone and locking it in my backpack every class period, and also never having my airpods in unless I'm listening to collegeboard video or educations stuff etc.
+
 If you are curious about a literal project, I'd really like to explore games or some type of story related lesson, maybe like a visual novel that makes learning fun and also catered to what kids these days like to do. In a visual novel there could be characters, a plotline and dialogue etc that tell a story about how to develop procedures or something similar, possibly with a broader topic.
 
 ## What do you want to learn next in CompSci?
