@@ -66,7 +66,26 @@ Q26: For a robot programming question, I was unsure of the moves to take to move
 
 Q30:  I answered that the movie sorting program would take 4 hours to execute, but in reality it takes 5. This is  each call to the analysis needs 1 hour of time, and it's called once before the loop then four times inside (once per entry in genreList). So 1+4 =5.
 
-Q33:
+Q33: On this question referring the algorithms, i put to include the floor AND the bedrooms, when it really should have been the floor OR the bedrooms. It doesn't set include to true in cases where only one of the two conditions is true.
+
+Q37: I put that code segment 1 doesn't display the correct average, but it actually does. Eeven though the two  code segments look very different, they both display correct averages and the first code segment requires more arithmetic operations.
+
+Q48: In this simulation, 75% of trials should be successful and 25% shouldn't, and I selected the wrong piece of code to complete the if/else sequence. I put random (1, 100) less than or equal to 25, whereas it should've been less than or equal to 75 because 75% are predicted to be correct.
+
+Q49: This error was very similar to the error in Q30, so researching the sane thing helped me.
+
+Q50: I put that for this target loop, it would be true that it implements and binary search and that it only works as intended when list is sorted. However, these were both incorrect because the only correct answer was 2, it implements a linear search; and the target loop des not need to be sorted in order to implement a linear search.
+
+
+Q52: On this palindrome sorting question, I selected that these steps would allow the algorithim to work as intended: Shorten, then keep palindromes, then sort; as well as first sort, then keep palindromes, then shorten. However, the former was incorrect because if you shorten first, the algorithim has no way of knowing which words/letters are palindromes.
+
+Q55: The result of the running procedure is always going to be false, because response = "y" and response = "yes" is always false because it is impossible for the variable response to be equal to both variables. Therefore the procedure always returns false.
+
+Q56: I got the number of values right but their actual values wrong. Whereas I thought the values were 0-20, they were actually 1-19 because it displays afterwards.
+
+Q63: I selected line 7 when it should've been line 4 or 9. This is because they both count and they mess up the program, so they need to delete.
+
+Q66: This list problem was similar to Q20 and the correct answers should've been 30, 40, 20, 10 or 40, 30, 20, 10. I didn't know this question and I had to skip it, but after researching I realized it was very similar to previous questions.
 
 
 
