@@ -8,6 +8,16 @@ description: A compilation of Sloane's moment and achievements throughout the tr
 author: Sloane
 permalink: /endoftri1blog
 ---
+<style> body { 
+position: relative; 
+background-image: url('{{ site.baseurl }}/images/glitter-beach.png'); 
+background-size: cover; 
+background-repeat: no-repeat; 
+background-attachment: fixed; 
+background-position: center; 
+color: #000000ff; 
+} 
+</style>
 
 ## Compare yourself to the beginning of the year
 At the beginning of the year, I started off honestly knowing nothing about coding and computers at all. My understandings of these things have grown largely throughout the first trimester, and 
